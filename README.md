@@ -1,2 +1,2 @@
 # ssmon
-System Software Monitor for linux in GO
+System Software Monitor for linux
